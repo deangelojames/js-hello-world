@@ -4,9 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello, World,", "My name is De'Angelo")  
+console.log("I am new here") 
+console.log("7" + "7")
+console.log('"Commit to learning new things"')
 /*  
+
+
+
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
